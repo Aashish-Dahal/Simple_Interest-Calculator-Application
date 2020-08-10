@@ -1,0 +1,4 @@
+#Mon Aug 10 14:39:02 NPT 2020
+base.0=/home/aashish/Desktop/simple_interest/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
